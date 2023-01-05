@@ -127,4 +127,5 @@ yarn-debug.log*
 yarn-error.log*
 
 .parcel-cache
+.parcel-cache/**/*
 dist

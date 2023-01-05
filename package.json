@@ -3,6 +3,8 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "d3": "^7.8.0",
+    "moment": "^2.29.4"
   },
   "scripts": {
     "start": "npx parcel@latest serve src/index.html src/data/**/*",
